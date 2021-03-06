@@ -1,5 +1,16 @@
 # @backstage/plugin-scaffolder-backend
 
+## 0.9.1
+
+### Patch Changes
+
+- 0b42fff22: Make use of parseLocationReference/stringifyLocationReference
+- c532c1682: Fixes task failures caused by undefined step input
+- Updated dependencies [0b42fff22]
+- Updated dependencies [0b42fff22]
+  - @backstage/catalog-model@0.7.4
+  - @backstage/catalog-client@0.3.7
+
 ## 0.9.0
 
 ### Minor Changes

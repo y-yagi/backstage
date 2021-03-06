@@ -1,5 +1,15 @@
 # @backstage/plugin-auth-backend
 
+## 0.3.4
+
+### Patch Changes
+
+- 5f1b7ea35: Change the JWKS url value for the oidc configuration endpoint
+- Updated dependencies [0b42fff22]
+- Updated dependencies [0b42fff22]
+  - @backstage/catalog-model@0.7.4
+  - @backstage/catalog-client@0.3.7
+
 ## 0.3.3
 
 ### Patch Changes

@@ -1,5 +1,17 @@
 # @backstage/techdocs-common
 
+## 0.4.4
+
+### Patch Changes
+
+- 0b42fff22: Make use of parseLocationReference/stringifyLocationReference
+- aa095e469: OpenStack Swift publisher added for tech-docs.
+- bc46435f5: - Improve deprecation warning messaging in logs.
+  - Replace temp folder path from git provider domain(`source`) to full git host name (`resource`). (See: https://github.com/IonicaBizau/git-url-parse#giturlparseurl)
+- a501128db: Refactor log messaging to improve clarity
+- Updated dependencies [0b42fff22]
+  - @backstage/catalog-model@0.7.4
+
 ## 0.4.3
 
 ### Patch Changes

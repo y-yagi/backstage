@@ -1,5 +1,16 @@
 # @backstage/plugin-explore
 
+## 0.3.1
+
+### Patch Changes
+
+- 2089de76b: Make use of the new core `ItemCardGrid` and `ItemCardHeader` instead of the deprecated `ItemCard`.
+- Updated dependencies [0b42fff22]
+- Updated dependencies [2089de76b]
+  - @backstage/catalog-model@0.7.4
+  - @backstage/core@0.7.1
+  - @backstage/theme@0.2.4
+
 ## 0.3.0
 
 ### Minor Changes

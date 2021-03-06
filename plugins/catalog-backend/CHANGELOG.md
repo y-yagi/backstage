@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend
 
+## 0.6.5
+
+### Patch Changes
+
+- 0b42fff22: Make use of parseLocationReference/stringifyLocationReference
+- Updated dependencies [0b42fff22]
+  - @backstage/catalog-model@0.7.4
+
 ## 0.6.4
 
 ### Patch Changes
